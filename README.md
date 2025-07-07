@@ -1,4 +1,27 @@
 ## Hi there 👋
+This is the first account for Franco, a web development student at triOS college! 
+Here are a few details about what this project is all about! 
+
+### 🔭 I’m currently working on ...
+1. getting better at code!
+2. getting used to memorizing helpful tips and tricks for various languages!
+3. my music!
+
+### 🌱 I’m currently learning ...
+1. HTML
+2. CSS
+3. JavaScript
+4. GitHub
+
+### 💬 Ask me about ...
+Genuinely anything music related. I went to school for it for a while so I think I'm confident with it hahah. 
+* Don't ask me a lot about code because I know some stuff but will totally blank on most of it when put on the spot :/
+
+### 😄 Pronouns: ...
+He/Him. 
+
+### ⚡ Fun fact: ...
+Even though I am Latino and my entire family + extended family love spicy foods, I can really only handle most mild hot sauces and will panic when fed soemthing with a lot of spice lmfao...
 
 <!--
 **franco-a999/franco-a999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
